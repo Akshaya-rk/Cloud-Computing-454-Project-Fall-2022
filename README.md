@@ -28,7 +28,7 @@ node app.js to start the development server, which will run on port 5000 by defa
 3. Download the resulting JSON key file.
 4. Save the JSON key file as dialogflowcx.json inside the functions/config directory of the cloned repo, else set the GOOGLE_APPLICATION_CREDENTIALS env variable on the deployment environment to the absolute path of Service Account JSON key file. See this guide for details. If JSON key is saved inside the repo, then uncomment CREDENTIALS_PATH in this file.
 
-# Slack Integration
+## Slack Integration
 1. Create a workspace in Slack, or use an existing workspace.
 
 2. To enable Slack integration with Dialogflow, choose "Integrations" on the left, then enable Slack. Follow the instructions and give permission to Dialogflow to operate a bot on your workspace.
