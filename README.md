@@ -1,6 +1,6 @@
 # Cloud-Computing-454-Project-Fall-2022
 
-##Slack Bot using Google Dialog Flow
+## Slack Bot using Google Dialog Flow
 
 This simple bot is setup to act as a intermediate between a Slack "Bot" User, and a DialogFlow Agent. By simply setting the appropriate APIAI_KEY and SLACK_API_KEY in the development/deployment environment, you can get started chatting with your "Bot Users" powered by a DialogFlow agent.  If you don't already have a Dialogflow agent, you may create one or add a prebuilt agent.
 
